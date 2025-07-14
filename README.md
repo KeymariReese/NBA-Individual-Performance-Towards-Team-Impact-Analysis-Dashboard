@@ -52,6 +52,45 @@ This was my **first end-to-end data project**, helping me build confidence with:
 
 ---
 
+### 🔄 Process Overview
+
+#### 1. 🧹 Data Review & Cleaning (Excel)
+- Explored the raw NBA player game logs in **Excel**.
+- Cleaned and formatted the data to ensure consistency.
+- Identified key columns for team-based aggregation.
+
+#### 2. 🗃️ SQL Filtering & Aggregation (MySQL Workbench)
+- Grouped individual player stats by **team**.
+- Calculated total **wins**, **losses**, and aggregated stats like:
+  - Total points scored
+  - Shooting attempts and accuracy
+  - Rebounds, assists, blocks, and steals
+- Filtered down to team-level insights from player-level rows.
+
+#### 3. 📊 Power BI Visualization & Reporting
+- Imported SQL results into **Power BI** for dashboarding.
+- Created custom **DAX measures** for:
+  - Shooting percentages (FG%, 3P%, FT%)
+  - Player efficiency formulas
+  - Defensive metrics (blocks + steals)
+  - Win rates and game trends
+- Designed a mix of **combo charts, bar charts, matrix visuals**, and **card KPIs**.
+- Made the dashboard **interactive** using slicers and filters.
+
+---
+
+### ❓ Key Questions Answered
+
+- 🏀 Which teams had the **highest win percentages**?
+- 🎯 How did teams perform in **shooting efficiency** (FG%, 3P%, FT%)?
+- 💪 Which teams showed the **strongest defensive presence** (blocks + steals)?
+- 🔁 Which teams struggled with **turnovers** or **personal fouls**?
+- 📈 What trends or **correlations exist between team performance stats and winning?**
+
+
+
+---
+
 ## 🙌 Let’s Connect
 
 If you’re learning data analytics!
