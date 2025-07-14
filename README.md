@@ -2,6 +2,11 @@
 
 This project analyzes NBA player game-by-game performance data using **MySQL**, **Power BI**, **Excel**, and **DAX**. It explores individual and team metrics across scoring, efficiency, defense, and win/loss trends — serving as a beginner-friendly data analytics portfolio project.
 
+
+##Dataset used
+
+-https://www.kaggle.com/datasets/eduardopalmieri/nba-player-stats-season-2425
+
 ---
 
 ## 📌 Project Summary
