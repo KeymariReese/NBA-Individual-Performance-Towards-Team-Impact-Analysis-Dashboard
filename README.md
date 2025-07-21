@@ -88,7 +88,9 @@ This was my **first end-to-end data project**, helping me build confidence with:
 - 📈 What trends or **correlations exist between team performance stats and winning?**
 
 ### Dashboard
+https://github.com/KeymariReese/NBA-Individual-Performance-Towards-Team-Impact-Analysis-Dashboard/blob/main/Screenshot%20(54).png
 
+###Dashboard
 
 
 
